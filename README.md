@@ -1,2 +1,2 @@
-# Readme.py
-Bot üçün
+
+Eləbelə
