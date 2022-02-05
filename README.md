@@ -1,0 +1,2 @@
+# Readme.py
+Bot üçün
